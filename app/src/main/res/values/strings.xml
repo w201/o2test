@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">O2TestApp</string>
+
+    <string name="homeScreen.statusTitle">Status: </string>
+    <string name="homeScreen.btnScratch">Scratch screen</string>
+    <string name="homeScreen.btnActivation">Activation screen</string>
+
+    <string name="scratchScreen.btnScratch">Scratch</string>
+
+    <string name="activationScreen.btnActivate">Activate</string>
+    <string name="activationScreen.activationDialog.message">Activation failed, try again</string>
+    <string name="activationScreen.activationDialog.title">Activation</string>
+    <string name="activationScreen.activationDialog.btnOk">OK</string>
+
+    <string name="status.unscratched">Unscratched</string>
+    <string name="status.scratched">Scratched</string>
+    <string name="status.activated">Activated</string>
+    <string name="status.notDefined">Not Defined yet</string>
+</resources>
